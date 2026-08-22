@@ -1,0 +1,10 @@
+/Users/farhan/Escrow Project/escrowlite/contracts/escrow/target/debug/deps/soroban_spec_rust-382f52b5aed318dd.d: /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/farhan/Escrow Project/escrowlite/contracts/escrow/target/debug/deps/libsoroban_spec_rust-382f52b5aed318dd.rlib: /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/farhan/Escrow Project/escrowlite/contracts/escrow/target/debug/deps/libsoroban_spec_rust-382f52b5aed318dd.rmeta: /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs:
+/Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs:
+/Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs:
+/Users/farhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs:
