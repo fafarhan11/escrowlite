@@ -179,3 +179,17 @@ button:hover {
 .status.released {
     color: #16a34a;
 }
+
+@media (max-width: 500px) {
+    .card {
+        padding: 18px;
+    }
+
+    .actions {
+        flex-direction: column;
+    }
+
+    .hero {
+        margin-bottom: 25px;
+    }
+}
