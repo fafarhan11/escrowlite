@@ -163,3 +163,19 @@ button:hover {
     color: #b91c1c;
     font-size: 14px;
 }
+
+.status {
+    font-weight: 600;
+}
+
+.status.created {
+    color: #d97706;
+}
+
+.status.funded {
+    color: #2563eb;
+}
+
+.status.released {
+    color: #16a34a;
+}

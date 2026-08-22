@@ -117,7 +117,9 @@ function App() {
 
                         <div className="status-row">
                             <span>Status</span>
-                            <strong className="created">{status}</strong>
+                            <strong className={`status ${status.toLowerCase()}`}>
+                                {status}
+                            </strong>
                         </div>
 
                         <div className="status-row">
