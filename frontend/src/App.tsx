@@ -9,10 +9,18 @@ function App() {
     const [status, setStatus] = useState("Not Created");
     const [funded, setFunded] = useState(false);
     const [released, setReleased] = useState(false);
+    const [error, setError] = useState("");
 
     const createEscrow = () => {
+        setError("");
+
         if (!client || !freelancer || !amount) {
-            alert("Please fill all fields");
+            setError("Please fill in all fields.");
+            return;
+        }
+
+        if (Number(amount) <= 0) {
+            setError("Amount must be greater than 0.");
             return;
         }
 
@@ -23,8 +31,10 @@ function App() {
     };
 
     const fundEscrow = () => {
+        setError("");
+
         if (!escrowId) {
-            alert("Create an escrow first");
+            setError("Create an escrow first.");
             return;
         }
 
@@ -33,8 +43,10 @@ function App() {
     };
 
     const releaseEscrow = () => {
+        setError("");
+
         if (!funded) {
-            alert("Fund the escrow first");
+            setError("Fund the escrow first.");
             return;
         }
 
@@ -86,6 +98,8 @@ function App() {
                         <button onClick={createEscrow}>
                             Create Escrow
                         </button>
+
+                        {error && <p className="error">{error}</p>}
                     </section>
 
                     <section className="card">

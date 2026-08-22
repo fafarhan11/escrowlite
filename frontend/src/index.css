@@ -154,3 +154,12 @@ button:hover {
         grid-template-columns: 1fr;
     }
 }
+
+.error {
+    margin-top: 12px;
+    padding: 10px;
+    border-radius: 6px;
+    background: #fee2e2;
+    color: #b91c1c;
+    font-size: 14px;
+}
