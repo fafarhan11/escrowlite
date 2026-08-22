@@ -84,3 +84,19 @@ escrowlite/
 └── README.md
 ```
 
+## Architecture
+
+EscrowLite consists of two main parts:
+
+- **Soroban Smart Contract** — Handles escrow creation, funding, release, and retrieval.
+- **React Frontend** — Provides the user interface for demonstrating the escrow workflow.
+
+The smart contract is deployed on the Stellar Testnet.
+
+## Development Status
+
+The current version is a functional Proof of Concept demonstrating the escrow lifecycle:
+
+Create → Fund → Release
+
+Future development includes wallet integration, real-time blockchain events, frontend-to-contract transactions, and production deployment.
