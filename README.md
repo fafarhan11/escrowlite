@@ -247,7 +247,7 @@ npm test
 - [x] 3+ passing contract tests
 - [x] 3+ passing frontend tests
 - [x] Live demo link
-- [ ] Demo video link
+- [x] Demo video link
 
 ## Development Status
 
