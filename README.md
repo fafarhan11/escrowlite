@@ -218,25 +218,35 @@ npm test
 
 ## Demo
 
-- Live demo: Not provided yet
+- Live demo: [https://escrowlite.vercel.app/](https://escrowlite.vercel.app/)
 - Demo video: Not provided yet
 
 ## Screenshots
 
-Screenshots have not been added to the repository yet.
+### Mobile/Responsive UI
+
+![Mobile/Responsive UI](docs/screenshots/deployed-ui.png)
+
+### GitHub Actions CI/CD successful run
+
+![GitHub Actions CI/CD successful run](docs/screenshots/github-actions-ci.png)
+
+### Frontend component tests passing
+
+![Frontend component tests passing](docs/screenshots/frontend-tests.png)
 
 ## Submission Checklist
 
-- [ ] Public GitHub repository
+- [x] Public GitHub repository
 - [x] README documentation
-- [ ] 10+ meaningful commits
+- [x] 10+ meaningful commits
 - [x] Contract deployment address
 - [x] Stellar Testnet transaction hash
 - [x] Mobile responsive UI
 - [x] CI/CD workflow
 - [x] 3+ passing contract tests
 - [x] 3+ passing frontend tests
-- [ ] Live demo link
+- [x] Live demo link
 - [ ] Demo video link
 
 ## Development Status
