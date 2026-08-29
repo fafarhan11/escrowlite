@@ -219,7 +219,7 @@ npm test
 ## Demo
 
 - Live demo: [https://escrowlite.vercel.app/](https://escrowlite.vercel.app/)
-- Demo video: Not provided yet
+- Demo video: [Watch the EscrowLite demo](https://youtu.be/t58BYuwW6FY)
 
 ## Screenshots
 
